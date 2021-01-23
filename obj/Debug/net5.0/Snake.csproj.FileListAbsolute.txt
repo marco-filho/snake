@@ -1,0 +1,16 @@
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\Snake.exe
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\Snake.deps.json
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\Snake.dll
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\ref\Snake.dll
+c:\Users\marco\Documents\vscode\Snake\bin\Debug\net5.0\Snake.pdb
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.csprojAssemblyReference.cache
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.dll
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\ref\Snake.dll
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.pdb
+c:\Users\marco\Documents\vscode\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
